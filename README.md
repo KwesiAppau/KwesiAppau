@@ -1,6 +1,6 @@
 
 
-# KwesiAppau/KwesiAppau is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- KwesiAppau/KwesiAppau is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 -👋  Hi! I am Kwesi A. Ohene-Obeng
