@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Statistical Methods, Machine Leraning and Deep Learning
 <!--# - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Data Science 
-- 📫 How to reach me: kwesiappau@gmail.com
+- 📫 How to reach me: aobeng148@gmail.com
 <!--# - 😄 Pronouns: ...-->
 - ⚡ Fun fact: Turning data into impact.
 
