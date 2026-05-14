@@ -2,14 +2,14 @@
 
 <!-- KwesiAppau/KwesiAppau is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+## 👋 Hi! I'm Kwesi A. Ohene-Obeng
 
-  👋  Hi! I am Kwesi A. Ohene-Obeng
-- 🔭 I work on Statistics, Machine Learning & Deep Learning Techniques
-- 🌱 Proficient in Python and R
-- 👯 I’m looking to collaborate on Statistical Methods, Machine Leraning and Deep Learning
-<!--# - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about Data Science 
-- 📫 How to reach me: aobeng148@gmail.com
-<!--# - 😄 Pronouns: ...-->
-- ⚡ Fun fact: Turning data into impact.
+📊 Data Scientist & Statistician  
+🔬 Doctoral Researcher in Data Science at UTEP  
+🧠 Focused on Functional Data Analysis, Bayesian Calibration, Machine Learning, and Scientific Computing  
+💻 Proficient in Python, R, SQL, Power BI, and Microsoft Fabric  
+🤝 Open to collaborations in Statistical Modeling, AI, and Data Science  
+💬 Ask me about Functional Data Analysis, Bayesian Inference, and Machine Learning  
+📫 Reach me at: aobeng148@gmail.com  
+⚡ Fun fact: Turning complex data into impactful solutions
 
